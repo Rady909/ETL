@@ -1,4 +1,4 @@
-# AUPP – ETL Robotics & AI Showcase
+ # AUPP – ETL Robotics & AI Showcase
 
 Standby showcase slide for the **AUPP Emerging Technology Lab (ETL)** at the **FrancoTech Experience Zone (EX-09)**, converted from PowerPoint to a single HTML page.
 
